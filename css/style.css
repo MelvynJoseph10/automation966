@@ -1,0 +1,35 @@
+body
+{
+    background-color: cyan;
+
+}
+p
+{
+color: bisque;
+
+}
+
+.box
+{
+    height: 200px;
+    width: 280px;
+    background-color: aquamarine
+
+}
+.box2
+{
+    height: 300px;
+    width: 500px;
+    background-color: red;
+    margin: 20px;
+    padding: 50px;
+    border: 20px;
+
+
+
+}
+.foot{
+    background-color: cyan;
+    text-align: center;
+    padding: 15px;
+}
